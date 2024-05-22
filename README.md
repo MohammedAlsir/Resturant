@@ -8,3 +8,5 @@
 
 
 ![image](img/Readme/1.png)
+![image](img/Readme/2.png)
+![image](img/Readme/3.png)
