@@ -7,4 +7,4 @@
 > Do not forget :  `npm run install`
 
 
-![image](https://github.com/MohammedAlsir/Resturant/blob/8654b2aa6da81dc8809448560715704a12c0b56f/img/Readme/1.png)
+![image](img/Readme/1.png)
